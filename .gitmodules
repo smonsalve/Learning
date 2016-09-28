@@ -1,0 +1,3 @@
+[submodule "Rails/AWDWROR5/bs/bs"]
+	path = Rails/AWDWROR5/bs/bs
+	url = git@github.com:smonsalve/bs.git
